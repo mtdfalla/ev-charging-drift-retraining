@@ -1,0 +1,15 @@
+{
+  "n_zones": 275,
+  "psi_median": 0.19318389767436733,
+  "psi_p75": 0.35449913912411396,
+  "pct_psi_gt_0.25": 39.63636363636363,
+  "mean_shift_min": -0.9543914644735187,
+  "mean_shift_max": 0.8689394487725934,
+  "drift_type_counts": {
+    "sudden": 201,
+    "near_stationary": 61,
+    "seasonal": 5,
+    "level_shift": 4,
+    "gradual": 4
+  }
+}

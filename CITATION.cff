@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "ev-charging-drift-retraining"
+abstract: "Code and processing scripts for 'Non-Stationarity in Urban Electric-Vehicle Charging Demand: A Forecasting Benchmark and Drift-Triggered Retraining Rule'."
+version: 1.0.0
+date-released: 2026-11-21
+authors:
+  - family-names: Abdelmagid
+    given-names: Mohamed
+    orcid: "https://orcid.org/0009-0000-2053-4374"
+  - family-names: Maalouf
+    given-names: Maher
+repository-code: "https://github.com/mtdfalla/ev-charging-drift-retraining"
+license: MIT
+keywords:
+  - electric vehicle charging
+  - demand forecasting
+  - concept drift
+  - non-stationarity
+  - model retraining
+  - decision analysis
+preferred-citation:
+  type: conference-paper
+  title: "Non-Stationarity in Urban Electric-Vehicle Charging Demand: A Forecasting Benchmark and Drift-Triggered Retraining Rule"
+  authors:
+    - family-names: Abdelmagid
+      given-names: Mohamed
+      orcid: "https://orcid.org/0009-0000-2053-4374"
+    - family-names: Maalouf
+      given-names: Maher
+  collection-title: "Proceedings of the 2026 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)"
+  conference:
+    name: "IEEE International Conference on Industrial Engineering and Engineering Management (IEEM 2026)"
+    city: "Singapore"
+    country: SG
+    date-start: 2026-12-02
+    date-end: 2026-12-05
+  year: 2026

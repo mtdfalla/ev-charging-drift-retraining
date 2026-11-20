@@ -1,0 +1,10 @@
+model,UrbanEV_h24,PaloAlto_h24
+persistence,0.727,0.399
+seasonal_naive_day,0.727,0.399
+rolling_mean_24h,0.974,0.41
+ewa_ensemble,0.733,0.413
+drift_triggered_mean,1.013,0.42
+online_linear,0.803,0.519
+static_ridge,0.817,0.683
+mlp_static,0.815,0.687
+gbt_static,0.796,0.644

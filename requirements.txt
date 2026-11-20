@@ -1,0 +1,13 @@
+# Core
+numpy>=1.26
+pandas>=2.2
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+
+# Time series / drift / online learning
+statsmodels>=0.14      # ARIMA, ETS, STL decomposition
+river>=0.21            # online learning + drift detectors (ADWIN, Page-Hinkley, KSWIN)
+
+# Optional heavy comparators (only if running LSTM/STGCN locally; CPU build of torch)
+# torch>=2.2          # uncomment to train deep baselines locally

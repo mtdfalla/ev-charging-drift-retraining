@@ -1,0 +1,12 @@
+{
+  "n_zones": 30,
+  "psi_median": 0.013680856210751139,
+  "psi_p75": 0.030357968805206106,
+  "pct_psi_gt_0.25": 0.0,
+  "mean_shift_min": -0.5578784549702538,
+  "mean_shift_max": 0.18261641379680935,
+  "drift_type_counts": {
+    "sudden": 26,
+    "near_stationary": 4
+  }
+}

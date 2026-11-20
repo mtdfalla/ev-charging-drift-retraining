@@ -1,0 +1,7 @@
+         policy  MASE  refits  acc_retained_%  cost_vs_always_%
+          never 0.858   1.000           0.000             0.118
+periodic_weekly 0.776   6.000          62.584             0.709
+ periodic_daily 0.739  36.000          90.936             4.255
+drift_triggered 0.765  12.117          71.521             1.432
+         always 0.728 846.000         100.000           100.000
+corr(refits,PSI)=-0.425

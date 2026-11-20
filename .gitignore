@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+data/raw/
+data/processed/
+data_paloalto/
+experiments/figures/
+experiments/figures_pa/
+experiments/results/_*.csv
+experiments/results_pa/_*.csv
+manuscript/
